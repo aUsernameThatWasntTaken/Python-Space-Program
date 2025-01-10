@@ -1,0 +1,44 @@
+{
+    "nextStage": [],
+    "size": [
+        3,
+        9
+    ],
+    "parts": [
+        {
+            "type": "Fuel Tank",
+            "position": [
+                0,
+                3
+            ]
+        },
+        {
+            "type": "Command Pod",
+            "position": [
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Rocket Engine",
+            "position": [
+                0,
+                7
+            ]
+        },
+        {
+            "type": "Rocket Engine",
+            "position": [
+                1,
+                7
+            ]
+        },
+        {
+            "type": "Rocket Engine",
+            "position": [
+                2,
+                7
+            ]
+        }
+    ]
+}

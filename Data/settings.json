@@ -1,0 +1,7 @@
+{
+    "framerate": 30,
+    "keybinds": {
+        "toggleMap": "m",
+        "toggleMenu": "esc"
+    }
+}
